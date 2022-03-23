@@ -1,0 +1,48 @@
+Room Number is: 1 
+Customer First Name for Room 2 is : no 
+Customer Second Name for Room 2 is : one 
+Number of Guests for Room 2 is : 0 
+Customer Credit Card Number for Room 2 is : 0 
+ 
+Room Number is: 2 
+Customer First Name for Room 3 is : no 
+Customer Second Name for Room 3 is : one 
+Number of Guests for Room 3 is : 0 
+Customer Credit Card Number for Room 3 is : 0 
+ 
+Room Number is: 3 
+Customer First Name for Room 4 is : no 
+Customer Second Name for Room 4 is : one 
+Number of Guests for Room 4 is : 0 
+Customer Credit Card Number for Room 4 is : 0 
+ 
+Room Number is: 4 
+Customer First Name for Room 5 is : no 
+Customer Second Name for Room 5 is : one 
+Number of Guests for Room 5 is : 0 
+Customer Credit Card Number for Room 5 is : 0 
+ 
+Room Number is: 5 
+Customer First Name for Room 6 is : no 
+Customer Second Name for Room 6 is : one 
+Number of Guests for Room 6 is : 0 
+Customer Credit Card Number for Room 6 is : 0 
+ 
+Room Number is: 6 
+Customer First Name for Room 7 is : no 
+Customer Second Name for Room 7 is : one 
+Number of Guests for Room 7 is : 0 
+Customer Credit Card Number for Room 7 is : 0 
+ 
+Room Number is: 7 
+Customer First Name for Room 8 is : no 
+Customer Second Name for Room 8 is : one 
+Number of Guests for Room 8 is : 0 
+Customer Credit Card Number for Room 8 is : 0 
+ 
+Room Number is: 8 
+Customer First Name for Room 9 is : no 
+Customer Second Name for Room 9 is : one 
+Number of Guests for Room 9 is : 0 
+Customer Credit Card Number for Room 9 is : 0 
+ 
